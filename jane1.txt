@@ -1,2 +1,6 @@
 First file from Jane.
+<<<<<<< HEAD
 Update from Jane.
+=======
+Gregg edited this.
+>>>>>>> 216725f8955e188dd0940eac6f9f70a8d64aeb59
